@@ -8,12 +8,8 @@
  * 
  * Features: Score Tracker, Ghost Chase AI, 3 Lives, High Score for Current Session, Cherry Bonus score, Sounds, Barrier so PacMan can't go inside the ghost house,
  * 2 Levels, Power pellets so the ghosts run away and turn blue, and helping the ghosts get outside of the house.
- * 
- * Major Skills: One and Two Dimensional Arrays, Swing GUI components, Menu Bars and Main Menus, Clip (sounds), Loops, Boolean, Objects, and Classes
- * 
- * Areas of Concern: None
- * 
  */
+
 public class PacManGame {
 
 	public static void main(String[] args) {
